@@ -1,0 +1,9 @@
+wheel
+absl-py>=0.12.0
+ml_collections
+numpy>=1.16.4
+dm-sonnet==2.0.0
+tensorflow>=2.5.0
+tensorflow_probability
+# graph_nets
+git+git://github.com/deepmind/graph_nets.git@64771dff0d74ca8e77b1f1dcd5a7d26634356d61

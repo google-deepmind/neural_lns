@@ -52,7 +52,7 @@ pip install -r requirements.txt
 3. Train the neural neighbourhood selection model using:
 
    ```
-   cd /tmp/
+   cd <parent-directory-of-neural_lns>
    python3 -m neural_lns.train
    ```
 

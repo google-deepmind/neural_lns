@@ -17,7 +17,7 @@
 from typing import List
 
 from graph_nets import graphs
-import sonnet.v2 as snt
+import sonnet as snt
 import tensorflow.compat.v2 as tf
 
 from neural_lns import layer_norm

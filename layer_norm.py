@@ -14,7 +14,7 @@
 # ============================================================================
 """Model layer normalisation and dropout utilities."""
 
-import sonnet.v2 as snt
+import sonnet as snt
 import tensorflow.compat.v2 as tf
 
 
